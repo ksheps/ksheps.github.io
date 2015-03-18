@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<div class="post">
+	<div class="row">
+		<div class="col-md-5">
+			<div class="post-photo">
+				<img src="{% if page.vertical-photo %}{{ page.vertical-photo }}{% else %}{{ page.horizontal-photo }}{% endif %}">
+			</div>
+		</div>
+		<div class="col-md-7">
+		  <header class="post-header">
+		    <h1 class="post-title">{{ page.title }}</h1>
+		    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+		  </header>
+
+		  <article class="post-content">
+		    {{ content }}
+		    {%if page.awards%}
+		    	<div class="post-award-head">Relevant Awards:</div>
+		    	<ul>
+		    	{% for award in page.awards%}
+		    		<div class="post-award">{{award}}</div>
+		    	{% endfor %}
+		    	</ul>
+		    </br>
+		    {% endif %}
+		    <div class ="post-links">
+			    {%if page.project-url%}
+			    	<div class="post-button"><a class="btn btn-default" href="{{page.project-url}}" role="button">Project site</a></div>
+			    {% endif %}
+			    {%if page.github-repo%}
+			   		<div class="post-button"><a class="btn btn-default" href="{{page.github-repo}}" role="button">Github repository</a></div>
+			    {% endif %}
+			</div>
+		    <a class="back-link" href="{{site.url}}">Back</a>
+		  </article>
+		</div>
+	</div>
+</div>

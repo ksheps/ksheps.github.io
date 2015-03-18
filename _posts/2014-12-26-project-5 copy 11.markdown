@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "This is a blog headline for a blog post"
+date:   2014-12-26 23:05:33
+horizontal-photo: http://neilbedi.com/img/folio/folio.outkast.jpg
+vertical-photo: http://neilbedi.com/img/folio/folio.rotc.jpg
+desc: "The home page is built from the YAML front matter of each post. The page will grab the 'title', 'date', 'awards' and 'horizontal-photo' from each post to display a list of all posts/projects in chronological order."
+awards: [First Award 1st Place, Second Award Finalist, Third Award Runner-Up]
+link: /linktostory
+type: blog
+
+---
+This is the content of the post located below the YAML front matter for each post's markdown file. Following Jekyll structure, each post is located in the _posts directory. 
+
+Post pages prefer vertical-photos over horizontal photos for the image content to the left of the text content. If there is no vertical photo, the post page will use the horizontal photo instead.
+
+The post's content ends with a list of awards and links to the project's github repository and the actual project. If either are empty in the YAML, the respective content won't be shown. 

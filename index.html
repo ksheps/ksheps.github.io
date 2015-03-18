@@ -1,0 +1,100 @@
+---
+layout: null
+---
+{% include head.html %}
+<style>
+header {
+  position: fixed;
+  top: 20rem;
+  left: 50%;
+  transform: translate(-50%, 0);
+  background-color: white;
+  padding: 4rem;
+  text-align: center;
+  box-shadow: 0 5px 25px 0 rgba(0,0,0,0.2);
+}
+header h1 {
+  font-weight: 300;
+  font-size: 4.5rem;
+  padding: 1rem;
+
+}
+header h4 {
+  text-transform: none;
+  padding-bottom: 1rem;
+  margin-bottom: 1.5rem;
+}
+header nav {
+  text-transform: uppercase;
+  font-size: 2rem;
+  margin-top: 1rem;
+}
+header nav a {
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+.headline-featured {
+  text-transform: uppercase;
+  font-size: 2.5rem;
+  display: inline;
+  margin: 1rem;
+}
+.headline-featured a{
+  color: #BBB;
+}
+.headline-featured a:hover{
+  color: #1756a9;
+  text-decoration: none;
+}
+.headline {
+  text-transform: uppercase;
+  font-size: 2rem;
+  display: inline;
+  margin: 1rem;
+}
+.headline a{
+  color: lightgrey;
+}
+.headline a:hover{
+  color: #1756a9;
+  text-decoration: none;
+}
+.headline-container {
+  max-width: 99%;
+  color: lightgrey;
+}
+
+</style>
+<header>
+  <h1>{{site.title}}</h1>
+  <h4>{{site.description}}</h4>
+  <nav>
+    <a href="/works.html">Portolio</a>
+    <a href="/blog.html">Blog</a>
+    <a href="/about.html">About</a>
+  </nav>
+</header>
+<body>
+  <div class="headline-container">
+      {% for post in site.posts %}
+        {% if post.type == "link" %}
+        <div class="headline">
+          <a href="{{ post.link | prepend: site.baseurl }}">
+            {{post.title}}
+          </a>
+        </div>
+        &#8226;
+        {% endif %}
+        {% if post.type == "featured" %}
+        <div class="headline-featured">
+          <a href="{{ post.link | prepend: site.baseurl }}">
+            {{post.title}}
+          </a>
+        </div>
+        {% endif %}        
+      {% endfor %} 
+    </div>
+</body>
+
+         
+

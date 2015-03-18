@@ -1,0 +1,15 @@
+# Site settings
+title: Writer Name
+email: writeremail93@gmail.com
+phone_number: 888-888-8888
+description: "Writer writing on writers writing"
+baseurl: ""
+url: "/" 
+twitter_username: writer
+blog_desc: "This blog is a space for me to write about my reporting process."
+folio_desc: "Below is a list of featured clips from my experience as a journalist."
+paginate: 7
+photo: "http://neilbedi.com/img/folio/folio.outkast.jpg"
+favicon: "/favicon.io"
+# Build settings
+markdown: kramdown
