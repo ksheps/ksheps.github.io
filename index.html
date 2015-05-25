@@ -5,7 +5,7 @@ layout: null
 <style>
 header {
   position: fixed;
-  top: 20rem;
+  top: 25%;
   left: 50%;
   transform: translate(-50%, 0);
   background-color: white;
@@ -91,6 +91,25 @@ header nav a {
             {{post.title}}
           </a>
         </div>
+        &#8226;
+        {% endif %}        
+      {% endfor %} 
+            {% for post in site.posts %}
+        {% if post.type == "link" %}
+        <div class="headline">
+          <a href="{{ post.link | prepend: site.baseurl }}">
+            {{post.title}}
+          </a>
+        </div>
+        &#8226;
+        {% endif %}
+        {% if post.type == "featured" %}
+        <div class="headline-featured">
+          <a href="{{ post.link | prepend: site.baseurl }}">
+            {{post.title}}
+          </a>
+        </div>
+        &#8226;
         {% endif %}        
       {% endfor %} 
     </div>

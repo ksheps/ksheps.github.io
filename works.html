@@ -34,7 +34,7 @@ layout: default
           <h3>{{site.folio_desc}}</h3>
           {% for post in site.posts %}
           {% if post.type == "featured" %}
-          <div class="col-md-4">
+          <div class="col-md-4" style="min-height:583px">
             <div class="post">
               <a class="post-link" href="{{ post.url}}">
                 <img src="{{post.horizontal-photo}}"/>
@@ -43,6 +43,12 @@ layout: default
                 <h2>{{post.title}}</h2>
               </a>
               <p>{{post.desc}}</p>
+              {% if post.awards %}
+              <b>Relevant awards: </b> 
+              {%for award in post.awards%}
+              {{award}}{% if forloop.last == false%},{%endif%}
+              {% endfor %}
+              {% endif %}
               <p>{{post.date | date: "%b %-d, %Y"}}</p>
             </div>
           </div>

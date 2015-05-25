@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "SUV finally freed from creek"
+date:   2014-07-18 
+link: http://www.fredericksburg.com/news/suv-finally-freed-from-creek/article_a258df88-d0a2-5fc1-8229-bc829d49c66e.html
+type: link
+---

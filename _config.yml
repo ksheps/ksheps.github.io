@@ -1,15 +1,15 @@
 # Site settings
-title: Writer Name
-email: writeremail93@gmail.com
-phone_number: 888-888-8888
-description: "Writer writing on writers writing"
+title: Katie Shepherd
+email: kshepherd@media.ucla.edu
+phone_number: 858-254-7242
+description: "Student journalist covering higher education and campus politics."
 baseurl: ""
 url: "/" 
-twitter_username: writer
-blog_desc: "This blog is a space for me to write about my reporting process."
+twitter_username: katemshepherd
+blog_desc: "Follow me through my reporting process and learn about my life as a student journalist."
 folio_desc: "Below is a list of featured clips from my experience as a journalist."
 paginate: 7
-photo: "http://neilbedi.com/img/folio/folio.outkast.jpg"
+photo: /img/prof-pic.jpg
 favicon: "/favicon.io"
 # Build settings
 markdown: kramdown

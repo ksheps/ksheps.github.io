@@ -26,11 +26,8 @@ layout: default
 		    </br>
 		    {% endif %}
 		    <div class ="post-links">
-			    {%if page.project-url%}
-			    	<div class="post-button"><a class="btn btn-default" href="{{page.project-url}}" role="button">Project site</a></div>
-			    {% endif %}
-			    {%if page.github-repo%}
-			   		<div class="post-button"><a class="btn btn-default" href="{{page.github-repo}}" role="button">Github repository</a></div>
+			    {%if page.link%}
+			    	<div class="post-button"><a class="btn btn-default" href="{{page.link}}" role="button">Full story here</a></div>
 			    {% endif %}
 			</div>
 		    <a class="back-link" href="{{site.url}}">Back</a>
