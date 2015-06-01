@@ -9,7 +9,7 @@ twitter_username: katemshepherd
 blog_desc: "Follow me through my reporting process and learn about my life as a student journalist."
 folio_desc: "Below is a list of featured clips from my experience as a journalist."
 paginate: 7
-photo: /img/profpic.jpg
+photo: /img/prof-pic.jpg
 favicon: "/favicon.io"
 # Build settings
 markdown: kramdown
