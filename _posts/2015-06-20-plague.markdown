@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Colorado teen dies from rare case of plague"
+date:   2015-06-20 
+link: http://www.latimes.com/nation/nationnow/la-na-nn-plague-colorado-teen-20150620-story.html
+type: link
+---

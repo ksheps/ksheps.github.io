@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Gunman who opens fire in Studio City dies at the scene"
+date:   2015-07-24 
+link: http://www.latimes.com/local/lanow/la-me-ln-report-of-gunman-opening-fire-bring-lapd-swarm-in-studio-city-20150724-story.html
+type: link
+---
