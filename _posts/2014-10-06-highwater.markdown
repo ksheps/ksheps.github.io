@@ -8,6 +8,7 @@ desc: 'TACLOBAN, Philippines — As water inched up the elementary school walls 
 awards: [SPJ National Mark of Excellence In-Depth Reporting First Place, California College Media Association Best News Series First Place]
 link: http://yolanda.dailybruin.com/chapter-1/through-hell-and-high-water/
 type: featured
+genre: investigative
 
 ---
 TACLOBAN, Philippines — As water inched up the elementary school walls around 5 a.m. after three hours of heavy rain, the mother made her snap decision.

@@ -7,6 +7,7 @@ desc: 'TANAUAN, Philippines — Only the floor of the clinic was left, surrounde
 awards: [SPJ National Mark of Excellence In-Depth Reporting First Place, California College Media Association Best News Series First Place]
 link: http://yolanda.dailybruin.com/chapter-1/her-second-chance/
 type: featured
+genre: investigative
 
 ---
 TANAUAN, Philippines — Only the floor of the clinic was left, surrounded by wet piles of rubble left after several 16-foot waves devastated the coastal town.

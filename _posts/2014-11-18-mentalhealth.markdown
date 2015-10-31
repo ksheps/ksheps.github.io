@@ -8,6 +8,7 @@ desc: 'Her attempt to take her own life in the February of her second year was n
 awards: [California College Media Association Best Magazine Story First Place]
 link: http://graphics.dailybruin.com/prime/fall-2014/mental-health/
 type: featured
+genre: magazine
 
 ---
 Her attempt to take her own life in the February of her second year was not the first.

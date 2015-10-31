@@ -7,6 +7,7 @@ desc: 'A number of UCLA students – somewhere between 50 and 400 – identify a
 awards:
 link: http://graphics.dailybruin.com/prime/spring-2015/insuring-identity/
 type: featured
+genre: magazine
 
 ---
 A number of UCLA students – somewhere between 50 and 400 – identify as transgender. They face challenges on many levels as they try to fit into the UCLA community, including discrimination and tough choices about how to transition both socially and physically.

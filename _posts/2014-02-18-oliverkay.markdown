@@ -6,6 +6,7 @@ horizontal-photo: http://graphics.dailybruin.com/media/prime/winter-2014/article
 desc: 'After four years as an officer in the British Army, Oliver Kay ventured to a new city, Los Angeles, to get his education. He graduated with recognition for excellence in service from UCLA in September, and commissioned as a military intelligence officer, this time under a different flag.'
 link: http://graphics.dailybruin.com/prime/winter-2014/back-ranks-soldier-finds-new-home-new-loyalties-la/
 type: featured
+genre: magazine
 
 ---
 Colored flags mark six continents and obscure most of Europe on the large canvas map that overlooks the living room of a neat two-bedroom apartment just more than two miles from the UCLA campus.

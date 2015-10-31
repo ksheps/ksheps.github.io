@@ -7,6 +7,7 @@ desc: 'Some student groups get massive checks totaling up to $35,560.19. Other c
 awards:
 link: http://stack.dailybruin.com/2015/06/01/student-group-allocations/
 type: featured
+genre: data
 
 ---
 Every year, students pay more than $4 million to support the undergraduate student government.
