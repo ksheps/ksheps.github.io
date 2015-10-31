@@ -94,24 +94,6 @@ header nav a {
         &#8226;
         {% endif %}        
       {% endfor %} 
-            {% for post in site.posts %}
-        {% if post.type == "link" %}
-        <div class="headline">
-          <a href="{{ post.link | prepend: site.baseurl }}">
-            {{post.title}}
-          </a>
-        </div>
-        &#8226;
-        {% endif %}
-        {% if post.type == "featured" %}
-        <div class="headline-featured">
-          <a href="{{ post.link | prepend: site.baseurl }}">
-            {{post.title}}
-          </a>
-        </div>
-        &#8226;
-        {% endif %}        
-      {% endfor %} 
     </div>
 </body>
 <script>
