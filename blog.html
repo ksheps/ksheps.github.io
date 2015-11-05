@@ -2,6 +2,35 @@
 layout: default
 ---
 <style>
+@media (max-width: 667px) {
+    header.site-header {
+      display: block;
+      position: relative;
+      max-width: none;
+    }
+    header .site-title {
+      width: 100%;
+      font-size: 3rem;
+      padding-left: 15px;
+    }
+    header .site-desc {
+      display: none;
+    }
+    header .site-nav {
+      font-size: 16px;
+      margin-top: 1rem;
+    }
+    header .site-nav ul li {
+      display: inline;
+      padding-right: 20px;
+    }
+    .page-content {
+      margin-left: 0;
+    }
+    .row {
+      margin: 0;
+    }
+}
 .blog {
   margin-bottom: 2rem;
 }
