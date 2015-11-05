@@ -2,6 +2,35 @@
 layout: default
 ---
 <style>
+@media (max-width: 667px) {
+    header.site-header {
+      display: block;
+      position: relative;
+      max-width: none;
+    }
+    header .site-title {
+      width: 100%;
+      font-size: 3rem;
+      padding-left: 15px;
+    }
+    header .site-desc {
+      display: none;
+    }
+    header .site-nav {
+      font-size: 16px;
+      margin-top: 1rem;
+    }
+    header .site-nav ul li {
+      display: inline;
+      padding-right: 20px;
+    }
+    .page-content {
+      margin-left: 0;
+    }
+    .row {
+      margin: 0;
+    }
+}
 .blog {
   margin-bottom: 2rem;
 }
@@ -38,7 +67,7 @@ layout: default
                 <h4>Data Journalism</h4>
                 {% for post in site.posts %}
                 {% if post.type == "featured" and post.genre == "data" %}
-                
+
                   <div class="col-md-4" style="min-height:583px">
                     <div class="post">
                       <a class="post-link" href="{{ post.url}}">
@@ -49,7 +78,7 @@ layout: default
                       </a>
                       <p>{{post.desc}}</p>
                       {% if post.awards %}
-                      <b>Relevant awards: </b> 
+                      <b>Relevant awards: </b>
                       {%for award in post.awards%}
                       {{award}}{% if forloop.last == false%},{%endif%}
                       {% endfor %}
@@ -57,7 +86,7 @@ layout: default
                       <p>{{post.date | date: "%b %-d, %Y"}}</p>
                       </div>
                   </div>
-                
+
                 {% endif %}
                 {% endfor %}
               </div>
@@ -66,7 +95,7 @@ layout: default
                 <h4>Investigative Reports</h4>
                 {% for post in site.posts %}
                 {% if post.type == "featured" and post.genre == "investigative" %}
-                
+
                   <div class="col-md-4" style="min-height:583px">
                     <div class="post">
                       <a class="post-link" href="{{ post.url}}">
@@ -77,7 +106,7 @@ layout: default
                       </a>
                       <p>{{post.desc}}</p>
                       {% if post.awards %}
-                      <b>Relevant awards: </b> 
+                      <b>Relevant awards: </b>
                       {%for award in post.awards%}
                       {{award}}{% if forloop.last == false%},{%endif%}
                       {% endfor %}
@@ -85,7 +114,7 @@ layout: default
                       <p>{{post.date | date: "%b %-d, %Y"}}</p>
                       </div>
                   </div>
-                
+
                 {% endif %}
                 {% endfor %}
               </div>
@@ -94,7 +123,7 @@ layout: default
                 <h4>Longform</h4>
                 {% for post in site.posts %}
                 {% if post.type == "featured" and post.genre == "magazine" %}
-                
+
                   <div class="col-md-4" style="min-height:583px">
                     <div class="post">
                       <a class="post-link" href="{{ post.url}}">
@@ -105,7 +134,7 @@ layout: default
                       </a>
                       <p>{{post.desc}}</p>
                       {% if post.awards %}
-                      <b>Relevant awards: </b> 
+                      <b>Relevant awards: </b>
                       {%for award in post.awards%}
                       {{award}}{% if forloop.last == false%},{%endif%}
                       {% endfor %}
@@ -113,7 +142,7 @@ layout: default
                       <p>{{post.date | date: "%b %-d, %Y"}}</p>
                       </div>
                   </div>
-                
+
                 {% endif %}
                 {% endfor %}
               </div>
@@ -122,7 +151,7 @@ layout: default
                 <h4>Daily News Reporting</h4>
                 {% for post in site.posts %}
                 {% if post.type == "featured" and post.genre == "news" %}
-                
+
                   <div class="col-md-4" style="min-height:583px">
                     <div class="post">
                       <a class="post-link" href="{{ post.url}}">
@@ -133,7 +162,7 @@ layout: default
                       </a>
                       <p>{{post.desc}}</p>
                       {% if post.awards %}
-                      <b>Relevant awards: </b> 
+                      <b>Relevant awards: </b>
                       {%for award in post.awards%}
                       {{award}}{% if forloop.last == false%},{%endif%}
                       {% endfor %}
@@ -141,7 +170,7 @@ layout: default
                       <p>{{post.date | date: "%b %-d, %Y"}}</p>
                       </div>
                   </div>
-                
+
                 {% endif %}
                 {% endfor %}
               </div>
