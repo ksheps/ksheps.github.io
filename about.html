@@ -42,8 +42,7 @@ layout: default
 }
 .about ul {
   list-style-type: none;
-  display: inline;
-  margin-left: 0;
+  text-align: center;
 }
 .about li {
   list-style-type: none;
@@ -57,7 +56,13 @@ layout: default
 .about a {
   color: #1756a9;
 }
+.about i {
+  color: #1756a9;
+}
 </style>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+</head>
 <div class="about">
     <div class="about-img">
       <img src="{{site.photo}}">
@@ -65,15 +70,15 @@ layout: default
     <div class="row">
         <div class="col-md-12">
 
-
-          <h2>About</h2>
           <p>I’m currently honing my data journalism and investigative reporting skills at Columbia Journalism School, where I'm a Brown Institute for Media Innovation Scholar. I’ve been practicing journalism for more than three years at several publications, including the Los Angeles Times, the Free Lance-Star and UCLA's student newspaper the Daily Bruin.</p>
 
           <p>Journalism is about sharing stories, seeking the truth and serving the community. I hope to make a career out of doing just that.</p>
           <ul>
-            <li>Email: <a href="mailto:{{site.email}}">{{site.email}}</a></li>
-            <li>Twitter: <a href="http://twitter.com/{{site.twitter_username}}">&#64;{{site.twitter_username}}</a></li>
-            <li>Resume: <a href="http://ksheps.github.io/img/resume.pdf">View Here</a></li>
+            <li><i class="fa fa-envelope"></i> <a href="mailto:{{site.email}}">{{site.email}}</a></li>
+            <li><i class="fa fa-twitter"></i> <a href="http://twitter.com/{{site.twitter_username}}">&#64;{{site.twitter_username}}</a></li>
+            <li><i class="fa fa-linkedin-square"></i> <a href="https://www.linkedin.com/in/katiemshepherd">/katiemshepherd</a></li>
+            <li><i class="fa fa-github"></i> <a href="https://github.com/ksheps">ksheps</a></li>
+            <li><i class="fa fa-file-text"></i> <a href="http://ksheps.github.io/img/resume.pdf"> resume</a></li>
           </ul>
         </div>
       </div>
