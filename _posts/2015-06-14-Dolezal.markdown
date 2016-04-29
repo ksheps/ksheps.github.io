@@ -1,7 +1,0 @@
----
-layout: post
-title:  "NAACP meeting canceled; Rachel Dolezal was to respond to accusations she lied about being black"
-date:   2015-06-14
-link: http://www.latimes.com/nation/nationnow/la-na-nn-naacp-spokane-black-leader-20150613-story.html
-type: link
----

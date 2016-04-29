@@ -1,7 +1,0 @@
----
-layout: post
-title: "Swimming continues at Fredericksburg quarry despite teen's death"
-date: 2014-07-08
-link: http://www.fredericksburg.com/news/swimming-continues-at-fredericksburg-quarry-despite-teen-s-death/article_c64cd70b-7d61-51b1-903c-44d3eca0f9db.html
-type: link
----

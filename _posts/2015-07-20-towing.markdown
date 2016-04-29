@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Cajon Pass fire victims outraged about towing fees: 'I didn't do anything illegal'"
-date:   2015-07-20 
-link: http://www.latimes.com/local/california/la-me-0721-fire-tow-20150721-story.html
-type: link
----

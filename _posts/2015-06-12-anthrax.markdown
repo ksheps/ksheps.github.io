@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Accidental anthrax shipments follow a familiar pattern"
-date:   2015-06-12
-link: http://www.latimes.com/nation/la-na-pathogen-mishaps-20150612-story.html
-type: link
----

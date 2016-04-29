@@ -1,15 +1,10 @@
 # Site settings
 title: Katie Shepherd
 email: kms2272@columbia.edu
-phone_number: 
-description: "Graduate student and journalist at the Columbia University School of Journalism in New York City"
+description: "Journalist interested in the intersections between politics, religion and government actions"
 baseurl: ""
-url: "/" 
+url: "/"
 twitter_username: katemshepherd
-blog_desc: "Follow me through my reporting process and learn about my life as a student journalist."
-folio_desc: "Below is a list of featured clips from my experience as a journalist."
-paginate: 7
-photo: /img/prof-pic.jpg
 favicon: "favicon.ico"
 # Build settings
 markdown: kramdown

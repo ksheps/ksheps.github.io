@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Alumnus Martin Sklar inspires with Disney success story"
-date:   2012-11-09 
-link: http://dailybruin.com/2012/11/09/alumnus-martin-sklar-inspires-with-disney-success-story/
-type: link
----

@@ -1,7 +1,0 @@
----
-layout: post
-title:  "SUV crashes, on two wheels, into parked car in city"
-date:   2014-07-17 
-link: http://www.fredericksburg.com/news/suv-crashes-on-two-wheels-into-parked-car-in-city/article_f63f1522-5229-5571-b2e3-f21651232c43.html
-type: link
----

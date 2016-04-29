@@ -1,9 +1,0 @@
----
-layout: post
-title:  "A Network of Support"
-date:   2014-10-06 
-link: http://yolanda.dailybruin.com/chapter-1/a-network-of-support/
-type: link
-
----
-

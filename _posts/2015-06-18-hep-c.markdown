@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Louisville needle swap aims to stop repeat of nearby HIV, hepatitis C outbreaks"
-date:   2015-06-18 
-link: http://www.latimes.com/nation/la-na-hepatitis-epidemic-20150618-story.html
-type: link
----

@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Fire damages auto repair shop"
-date:   2014-07-04 
-link: http://www.fredericksburg.com/news/fire-damages-auto-repair-shop/article_5b9527a4-0a6c-50f0-a370-a656bf65035e.html
-type: link
----

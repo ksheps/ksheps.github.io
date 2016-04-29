@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Tempers flaring on city’s streets"
-date:   2014-07-07 
-link: http://www.fredericksburg.com/news/tempers-flaring-on-city-s-streets/article_8e747585-aa60-520d-a81e-629019b34fc9.html
-type: link
----

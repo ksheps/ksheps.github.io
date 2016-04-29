@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Harvesting Hope"
-date:   2014-10-08
-link: http://yolanda.dailybruin.com/chapter-3/harvesting-hope/
-type: link
-
----
-

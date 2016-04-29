@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Campaign money has MTA board members missing votes"
-date:   2015-08-03
-link: http://www.latimes.com/local/cityhall/la-me-0803-metro-fundraising-20150803-story.html
-type: link
----

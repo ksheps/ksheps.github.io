@@ -1,7 +1,0 @@
----
-layout: post
-title:  "City police to pay overtime for quarry patrols"
-date:   2014-07-10 
-link: http://www.fredericksburg.com/news/city-police-to-pay-overtime-for-quarry-patrols/article_7903bd94-aa7e-5992-8dea-68b90a7ea9aa.html
-type: link
----
