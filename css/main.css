@@ -1,19 +1,33 @@
 body {
-  margin: 0 auto 2rem;
-  max-width: 500px;
-  padding: 0 10px;
-  border-top: 5px #D1A3FF solid;
-  background-color: #FFFFFC;
-  font-family: Lato, Helvetica, sans-serif;;
+  border-top: 5px #85144b solid;
+  background-color: #FFFFFE;
+  font-family: Avenir, Lato, Helvetica, sans-serif;;
   line-height: 1.5;
+  margin: 0;
+}
+
+div.content {
+  margin: 0 auto 5rem;
+  max-width: 468px;
+  padding: 0px 10px;
 }
 
 h1 {
-  margin: 1rem 0;
+  margin: 5rem 0 1rem 0;
+  text-align: center;
+  font-weight: normal;
+}
+
+hr {
+  width: 200px;
+  margin-bottom: 2.5rem;
+  border-left: none;
+  border-right: none;
+  border-top: grey;
 }
 
 a {
-  color: #D1A3FF;
+  color: #85144b;
   font-weight: 500;
   text-decoration: none;
 }

@@ -2,7 +2,9 @@
 layout: base
 ---
 
-# Katie Shepherd
+# Katie M. Shepherd
+
+---
 
 I'm a journalist interested in the intersections between politics, religion and government actions. I also love criminal justice stories and am obsessed with forensic science reporting – my master's project at Columbia centered around field drug tests.
 
