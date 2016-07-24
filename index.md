@@ -6,7 +6,7 @@ layout: base
 
 ---
 
-I'm a journalist interested in the intersections between politics, religion and government actions. I also love criminal justice stories and am obsessed with forensic science reporting – my master's project at Columbia centered around field drug tests.
+I'm a journalist interested in the intersections between politics, religion and government actions. I believe keeping politicians and officials accountable to the public is one of the most important functions of journalism. I also love criminal justice stories and am obsessed with forensic science reporting – my master's project at Columbia centered around the injustices caused by inaccurate but widely-used field drug tests.
 
 I am currently working as a Reston fellow for [The New York Times](//nytimes.com), where I report for the politics desk in Washington, D.C. Previously, I worked for The [Los Angeles Times](//latimes.com) as a reporter for the national, metro and city and county government desks. I also reported for a small regional paper in northern Virginia, [The Free Lance-Star](//fredericksburg.com), where I covered breaking news and the cops and courts beat.
 
