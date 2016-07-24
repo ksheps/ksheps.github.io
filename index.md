@@ -17,7 +17,7 @@ I have experience as a breaking news reporter where I covered a [police shooting
 ## Portfolio
 Read some of my best work:
 
-###The New York Times
+### The New York Times
 
 [A Muslim Community in Virginia Feels the Heat of Extremists’ Sins](//www.nytimes.com/2016/06/22/us/politics/a-muslim-community-in-virginia-feels-the-heat-of-extremists-sins.html?_r=0)
 
@@ -29,7 +29,7 @@ Read some of my best work:
 
 [Groups Unite Across America to Protest Police Shootings](//www.nytimes.com/2016/07/22/us/groups-unite-across-america-to-protest-police-shootings.html)
 
-###The Los Angeles Times
+### The Los Angeles Times
 
 [Innovation is blooming at water-wise urban farms](http://www.latimes.com/local/california/la-me-urban-farming-drought-20150810-story.html)
 
@@ -37,13 +37,13 @@ Read some of my best work:
 
 [Texas universities seek curbs on new law allowing concealed guns on campus](http://www.latimes.com/nation/la-na-campus-carry-20150604-story.html)
 
-###The Free Lance-Star
+### The Free Lance-Star
 
 [Larceny offenses lead area crime rates](http://www.fredericksburg.com/news/local/larceny-offenses-lead-area-crime-rates/article_78c20f33-79fd-5f76-8bf0-53a98e98e8bd.html)
 
 [Swimming continues at Fredericksburg quarry despite teen's death](http://www.fredericksburg.com/news/swimming-continues-at-fredericksburg-quarry-despite-teen-s-death/article_c64cd70b-7d61-51b1-903c-44d3eca0f9db.html)
 
-###The Daily Bruin
+### The Daily Bruin
 
 [Through Hell and High Water](http://yolanda.dailybruin.com/chapter-1/through-hell-and-high-water/)
 
