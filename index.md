@@ -8,9 +8,9 @@ layout: base
 
 I'm a journalist interested in the intersections between politics, religion and government actions. I also love criminal justice stories and am obsessed with forensic science reporting – my master's project at Columbia centered around field drug tests.
 
-In June, I will start as a Reston fellow for [The New York Times](//nytimes.com), where I will report for the politics desk in Washington, D.C. Previously, I worked for The [Los Angeles Times](//latimes.com) as a reporter for the national, metro and city and county government desks. I also reported for a small regional paper in northern Virginia, [The Free Lance-Star](//fredericksburg.com), where I was covered general assignment, breaking news and the cops and courts beat.
+I am currently working as a Reston fellow for [The New York Times](//nytimes.com), where I report for the politics desk in Washington, D.C. Previously, I worked for The [Los Angeles Times](//latimes.com) as a reporter for the national, metro and city and county government desks. I also reported for a small regional paper in northern Virginia, [The Free Lance-Star](//fredericksburg.com), where I covered breaking news and the cops and courts beat.
 
-In May 2016, I will graduate with an M.S. in journalism from the [Columbia University Graduate School of Journalism](//www.journalism.columbia.edu/), where I spent a year developing my data skills, investigative reporting techniques and narrative writing style.  I graduated with a B.A. in English from UCLA in March, 2015.
+In May 2016, graduated with honors from the [Columbia University Graduate School of Journalism](//www.journalism.columbia.edu/), where I spent a year developing my data skills, investigative reporting techniques and narrative writing style.  I graduated with a B.A. in English from UCLA in March, 2015.
 
 I have experience as a breaking news reporter where I covered a [police shooting](//www.latimes.com/local/lanow/la-me-ln-report-of-gunman-opening-fire-bring-lapd-swarm-in-studio-city-20150724-story.html), the [death](//www.fredericksburg.com/news/stafford-county-marine-killed-in-afghanistan/article_2d1e8968-2772-59b8-9a06-958963d1cae0.html) of a United States [Marine](http://www.fredericksburg.com/news/marine-laid-to-rest-in-aura-of-honor/article_8974d805-cddf-5c57-bc1e-6dd7749af81d.html), and local Los Angeles County [law](//www.latimes.com/local/lanow/la-me-ln-uber-legal-lax-20150716-story.html) [changes](//www.latimes.com/local/lanow/la-me-ln-county-minimum-wage-20150721-story.html).
 
@@ -18,4 +18,4 @@ My reporting has spanned more than six states, ranging from [higher education co
 
 ## How to Reach Me
 
-If you have a tip, comment or feedback on a story, send me an email at [kms2272@columbia.edu](mailto:kms2272@columbia.edu). You can also find me on [Twitter](//twitter.com/katemshepherd) and [Instagram](//instagram.com/kmshepherd).
+If you have a tip, comment or feedback on a story, send me an email at [katie.shepherd@nytimes.com](mailto:katie.shepherd@nytimes.com). You can also find me on [Twitter](//twitter.com/katemshepherd) and [Instagram](//instagram.com/kmshepherd).
