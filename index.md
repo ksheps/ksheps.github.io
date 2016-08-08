@@ -18,6 +18,7 @@ I have experience breaking news including a [police shooting](//www.latimes.com/
 Read some of my best work:
 
 ### The New York Times
+[Township Saw a Zoning Issue. The Justice Dept. Saw Religious Discrimination.]{http://www.nytimes.com/2016/08/08/us/politics/township-saw-a-zoning-issue-the-justice-dept-saw-religious-discrimination.html?hpw&rref=us&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well}
 
 [Activists Exhort Pentagon to Fix Vietnam War Website They Say Lacks Context](http://www.nytimes.com/2016/07/27/us/politics/vietnam-50th-anniversary-pentagon-timeline.html?hpw&rref=politics&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well)
 
