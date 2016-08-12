@@ -55,4 +55,4 @@ Read some of my best work:
 
 ## How to Reach Me
 
-If you have a tip, comment or feedback on a story, send me an email at [katie.shepherd@nytimes.com](mailto:katie.shepherd@nytimes.com). You can also find me on [Twitter](//twitter.com/katemshepherd) and [Instagram](//instagram.com/kmshepherd).
+If you have a tip, comment or feedback on a story, send me an email at [kms2272@columbia.edu](mailto:kms2272@columbia.edu). You can also find me on [Twitter](//twitter.com/katemshepherd) and [Instagram](//instagram.com/kmshepherd).
