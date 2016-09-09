@@ -8,7 +8,9 @@ layout: base
 
 I'm a journalist interested in the intersections between politics and religion. I believe keeping politicians and officials accountable to the public is one of the most important jobs a reporter could do. I also love criminal justice stories and am obsessed with forensic science.
 
-I am a Reston fellow for [The New York Times](//nytimes.com), where I report for the politics desk in Washington, D.C. Previously, I worked for The [Los Angeles Times](//latimes.com) and a small regional paper in northern Virginia, [The Free Lance-Star](//fredericksburg.com).
+I am working with a team of six Columbia and Stanford-affiliated journalists and engineers to produce sensors that can help gauge coral reef health in real time. The project, called Re(ef)source, aims to improve environmental reporting by modeling new ways that sensors, data and crowdsourcing can be used to tell powerful stories as our coral reefs endure the stress of rising ocean temperatures. 
+
+Previously, I was a James Reston fellow for [The New York Times](//nytimes.com), where I reported for the politics desk in Washington, D.C. Previously, I worked for The [Los Angeles Times](//latimes.com) and a small regional paper in northern Virginia, [The Free Lance-Star](//fredericksburg.com).
 
 In May 2016, I graduated with honors from the [Columbia University Graduate School of Journalism](//www.journalism.columbia.edu/), where I spent a year developing my data skills, investigative reporting and narrative writing style.  I graduated with a B.A. in English from UCLA in March, 2015.
 
