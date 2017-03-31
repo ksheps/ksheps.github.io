@@ -8,7 +8,7 @@ layout: base
 
 I'm a journalist interested in politics, policy and their influence in the world. I believe keeping politicians and officials accountable to the public is one of the most important jobs a reporter could do. I also love criminal justice stories and am obsessed with forensic science.
 
-I'm a Magic Grantee at the [Brown Institute for Media Innovation](http://brown.columbia.edu/people), where I'm working with a team of six Columbia and Stanford-affiliated journalists and engineers to produce sensors that can help gauge coral reef health in real time. The project, called [Re(ef)source](http://brown.stanford.edu/magic/reefsource_201617), aims to improve environmental reporting by modeling new ways that sensors, data and crowdsourcing can be used to tell powerful stories as our coral reefs endure the stress of rising ocean temperatures. 
+I'm a reporter at BBC News in Washington, D.C. I'm also a Magic Grantee at the [Brown Institute for Media Innovation](http://brown.columbia.edu/people), where I'm working with a team of six Columbia and Stanford-affiliated journalists and engineers to produce sensors that can help gauge coral reef health in real time. The project, called [Re(ef)source](http://brown.stanford.edu/magic/reefsource_201617), aims to improve environmental reporting by modeling new ways that sensors, data and crowdsourcing can be used to tell powerful stories as our coral reefs endure the stress of rising ocean temperatures. 
 
 Previously, I was a James Reston fellow for [The New York Times](//nytimes.com), where I reported for the politics desk in Washington, D.C. Previously, I worked for The [Los Angeles Times](//latimes.com) and a regional paper in northern Virginia, [The Free Lance-Star](//fredericksburg.com).
 
@@ -18,6 +18,17 @@ I have experience breaking news including a [police shooting](//www.latimes.com/
 
 ## Portfolio
 Read some of my best work:
+### BBC News
+
+[Sisterlocks struggle: Stylists want fewer restrictions to braid hair](http://www.bbc.com/news/world-us-canada-39261335)
+
+[Freedom Caucus: Do these 29 white men run America?](http://www.bbc.com/news/world-us-canada-39410555)
+
+[Are Washington girls really going missing?](http://www.bbc.com/news/world-us-canada-39384008)
+
+Deportation in Trump's America:
+[Week 1](http://www.bbc.com/news/world-us-canada-39295297),
+[Week 2](http://www.bbc.com/news/world-us-canada-39371204)
 
 ### The New York Times
 
