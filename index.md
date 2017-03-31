@@ -70,4 +70,4 @@ Deportation in Trump's America:
 
 ## How to Reach Me
 
-If you have a tip, comment or feedback on a story, send me an email at [kms2272@columbia.edu](mailto:kms2272@columbia.edu). You can also find me on [Twitter](//twitter.com/katemshepherd) and [Instagram](//instagram.com/kmshepherd).
+If you have a tip, comment or feedback on a story, send me an email at [kms2272(at)columbia(dot)edu](mailto:kms2272@columbia.edu). You can also find me on [Twitter](//twitter.com/katemshepherd) and [Instagram](//instagram.com/kmshepherd).
