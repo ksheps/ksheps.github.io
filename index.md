@@ -14,15 +14,13 @@ As an investigative reporter for [Willamette Week](http://www.wweek.com/pb/autho
 
 Previously, I reported for [BBC News](http://www.bbc.com/news) in the Washington, D.C. bureau covering politics and writing features for the US and Canada section. 
 
-I was a James Reston fellow for [The New York Times](//nytimes.com), where I reported for the politics desk in Washington, D.C. I worked as an intern for the [Los Angeles Times](//latimes.com) and for a regional paper in northern Virginia, [The Free Lance-Star](//fredericksburg.com).
+I was a James Reston fellow for [The New York Times](//nytimes.com), where I reported for the politics desk in Washington, D.C. I worked as an intern for [The Los Angeles Times](//latimes.com) and for a regional paper in northern Virginia, [The Free Lance-Star](//fredericksburg.com).
 
 In May 2016, I graduated with honors from the [Columbia University Graduate School of Journalism](//www.journalism.columbia.edu/), where I spent a year developing my data skills, investigative reporting and narrative writing style. I graduated with a B.A. in English from UCLA in March, 2015.
 
 If you have a tip, comment or feedback on a story, send me an email at [kshepherd(at)wweek(dot)com](mailto:kshepherd@wweek.com). You can also find me on [Twitter](//twitter.com/katemshepherd).
 
 ## Portfolio
-
-Read some of my work:
 
 ### Willamette Week
 
