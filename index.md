@@ -24,13 +24,18 @@ If you have a tip, comment or feedback on a story, send me an email at [kshepher
 
 ### Willamette Week
 
+- [Texts Between Portland Police and Patriot Prayer Ringleader Joey Gibson Show Warm Exchange](https://www.wweek.com/news/courts/2019/02/14/texts-between-portland-police-and-patriot-prayer-ringleader-joey-gibson-show-warm-exchange/)
+
+- [Portland Police Built a Convincing Case Against Tusitala “Tiny” Toese for a June 2018 Assault. But Prosecutors Didn’t Take It to Court.](https://www.wweek.com/news/courts/2019/02/20/portland-police-built-a-convincing-case-against-tusitala-tiny-toese-for-a-june-2018-assault-but-prosecutors-didnt-take-it-to-court/)
+
+- Read more beat coverage of the Pacific Northwest's far-right extremist groups and the alt-right [here.](https://www.wweek.com/tag/far-right/)
+
 - [Oregon Failed to Provide Flu Vaccinations to Most of Its Prison Inmates. One Woman Died.](http://www.wweek.com/news/state/2018/03/21/oregon-failed-to-provide-flu-vaccinations-to-most-of-its-prison-inmates-one-woman-died/)
 
 - [The Computer System That Decides Who Stays in Jail Is Recommending the Release of People Accused of Violent Crimes](http://www.wweek.com/news/courts/2018/04/04/the-computer-system-that-decides-who-stays-in-jail-is-recommending-the-release-of-people-accused-of-violent-crimes/)
 
 - [In Portland, You Can Steal Cars Over and Over—and Get Away With It. Here’s How.](http://www.wweek.com/news/courts/2017/11/29/in-portland-you-can-steal-cars-over-and-over-and-get-away-with-it-heres-how/)
 
-- [Oregon District Attorneys Drop Plan to Scrap Non-Unanimous Jury Verdicts](http://www.wweek.com/news/courts/2018/01/30/oregon-district-attorneys-drop-plan-to-scrap-non-unanimous-jury-verdicts/)
 
 - [A Portland Shelter Meant to Help Sexually Trafficked Teenagers Instead Drove Them Into the Street](http://www.wweek.com/news/2017/12/06/a-portland-shelter-meant-to-help-sexually-trafficked-teenagers-instead-drove-them-into-the-street/)
 
