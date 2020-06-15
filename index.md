@@ -17,7 +17,7 @@ As a student, I was a James Reston fellow for [The New York Times](//nytimes.com
 
 In May 2016, I graduated with honors from the [Columbia University Graduate School of Journalism](//www.journalism.columbia.edu/), where I spent a year developing my data skills, investigative reporting and narrative writing style. I graduated with a B.A. in English from UCLA in March, 2015.
 
-If you have a tip, comment or feedback on a story, send me an email at [kshepherd(at)wweek(dot)com](mailto:kshepherd@wweek.com). You can also find me on [Twitter](//twitter.com/katemshepherd).
+If you have a tip, comment or feedback on a story, send me an email at [katie.shepherd(at)washpost(dot)com](mailto:katie.shepherd@washpost.com). You can also find me on [Twitter](//twitter.com/katemshepherd).
 
 ## Portfolio
 
