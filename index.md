@@ -7,14 +7,13 @@ layout: base
 # Katie Shepherd
 
 ---
+I'm a reporter for [The Washington Post's Morning Mix](https://www.washingtonpost.com/people/katie-shepherd/) team.
 
-I’m a journalist interested in politics, policy and their influence in the world. I believe keeping politicians and officials accountable to the public is one of the most important jobs a reporter could do.
+Previously, I worked as an investigative reporter for [Willamette Week](http://www.wweek.com/pb/author/shepherdk/) in Portland, Oregon, covering criminal justice and immigration. I also helped curate a weekly digest of the best local watchdog stories across the country for [Local Matters](https://docs.google.com/spreadsheets/d/e/2PACX-1vTozHjnf3IGLh6dLC7FRxRvlR50TL5Nq2EBfEDKZU4W4vugqVhL7Yk_WynZrX29F-955ziSTjq9XND8/pubhtml). 
 
-As an investigative reporter for [Willamette Week](http://www.wweek.com/pb/author/shepherdk/) in Portland, Oregon, I cover criminal justice and immigration. I also help curate a weekly digest of the best local watchdog stories across the country for [Local Matters](https://docs.google.com/spreadsheets/d/e/2PACX-1vTozHjnf3IGLh6dLC7FRxRvlR50TL5Nq2EBfEDKZU4W4vugqVhL7Yk_WynZrX29F-955ziSTjq9XND8/pubhtml). 
+In 2017, I reported for [BBC News](http://www.bbc.com/news) in the Washington, D.C. bureau covering politics and writing features for the US and Canada section. 
 
-Previously, I reported for [BBC News](http://www.bbc.com/news) in the Washington, D.C. bureau covering politics and writing features for the US and Canada section. 
-
-I was a James Reston fellow for [The New York Times](//nytimes.com), where I reported for the politics desk in Washington, D.C. I worked as an intern for [The Los Angeles Times](//latimes.com) and for a regional paper in northern Virginia, [The Free Lance-Star](//fredericksburg.com).
+As a student, I was a James Reston fellow for [The New York Times](//nytimes.com), where I reported for the politics desk in Washington, D.C. I worked as an intern for [The Los Angeles Times](//latimes.com) and for a regional paper in northern Virginia, [The Free Lance-Star](//fredericksburg.com).
 
 In May 2016, I graduated with honors from the [Columbia University Graduate School of Journalism](//www.journalism.columbia.edu/), where I spent a year developing my data skills, investigative reporting and narrative writing style. I graduated with a B.A. in English from UCLA in March, 2015.
 
